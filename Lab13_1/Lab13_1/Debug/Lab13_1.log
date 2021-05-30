@@ -1,0 +1,8 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  var.cpp
+  sum.cpp
+  Lab13_1.cpp
+  dod.cpp
+  Generating Code...
+dod.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Lab13_1.vcxproj -> D:\Users\MAINUSER\Desktop\Новая папка\Lab13_1\Debug\Lab13_1.exe
